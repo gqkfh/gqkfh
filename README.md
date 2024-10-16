@@ -11,12 +11,12 @@
 
 ```
 PROGRAMMING LANGUAJES
-- 🐍 Python
-- ⚙️ HTML
-- 🛠️ CSS
-- 🌐 BATCH
-- ☘️ Bash
-- 📌 VBS
+  ├── 🐍 Python
+  ├── ⚙️ HTML
+  ├── 🛠️ CSS
+  ├── 🌐 BATCH
+  ├── ☘️ Bash
+  └── 📌 VBS
 
 OPERATIVE SYSTEMS
 - 📂 Windows
