@@ -9,8 +9,6 @@
 - 📷 View, star and fork my GitHub proyects!
 ```
 
-<hr>
-
 ```
 PROGRAMMING LANGUAJES
 - 🐍 Python
