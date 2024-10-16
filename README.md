@@ -19,13 +19,13 @@ PROGRAMMING LANGUAJES
   └── 📌 VBS
 
 OPERATIVE SYSTEMS
-- 📂 Windows
-- 🐧 Linux (Debian)
+  ├── 📂 Windows
+  └── 🐧 Linux (Debian)
 
 WORKSPACES
-- ✨ Visual Studio Code
-- 📝 Windows Notepad
-- 🛡️ Nootepad ++
-- 🏆 GitHub
-- 💼 Canva
+  ├── ✨ Visual Studio Code
+  ├── 📝 Windows Notepad
+  ├── 🛡️ Nootepad ++
+  ├── 🏆 GitHub
+  └── 💼 Canva
 ```
