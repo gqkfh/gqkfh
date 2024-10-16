@@ -9,7 +9,7 @@
 - 📷 View, star and fork my GitHub proyects!
 ```
 
-### My Skills
+<hr>
 
 ```
 PROGRAMMING LANGUAJES
