@@ -7,6 +7,7 @@
 - 💎 Learning pentesting & cibersecirity
 - 💻 I have the best info leaks and databases
 - 📷 View, star and fork my GitHub proyects!
+- 👀 I like OSINT!
 ```
 
 ```
