@@ -31,4 +31,8 @@ WORKSPACES
   ├── 🛡️ Nootepad ++
   ├── 🏆 GitHub
   └── 💼 Canva
+
+MY REPOS
+  ├── 🤖 snusbase-bot
+  └── 😈 shodan-email
 ```
