@@ -34,5 +34,6 @@ WORKSPACES
 
 MY REPOS
   ├── 🤖 snusbase-bot
+  ├── 🔔 python-obfuscator
   └── 😈 shodan-email
 ```
