@@ -44,3 +44,24 @@ CONTACT ME
   ├── 💎 Discord: j0k3r_s3rv1c35
   └── 📚 Mail: hidden
 ```
+
+```python
+import sqlite3
+
+connection = sqlite3.connect('database.db') 
+
+cursor = connection.cursor()
+
+user_id = 1  
+cursor.execute("SELECT email FROM usuarios WHERE id = ?", (user_id,))
+
+result = cursor.fetchone()
+
+if result:
+    print(f"The mail of the user with ID {user_id} is: {result[0]}")
+else:
+    print(f"Not foudn the email of the user with the ID {user_id}")
+
+cursor.close()
+connection.close()
+```
