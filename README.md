@@ -45,6 +45,3 @@ CONTACT ME
   ├── 💀 Gun.lol: https://guns.lol/j0k3r 
   └── 📚 Server: https://discord.gg/freeforreal
 ```
-
-![scaler-create-impact](https://github.com/user-attachments/assets/05c2a37f-647e-431c-92aa-4ef6fee372d0)
-
