@@ -42,6 +42,7 @@ MY REPOS
 
 CONTACT ME
   ├── 💎 Discord: j0k3r_s3rv1c35
-  ├── 💀 Gun.lol: https://guns.lol/j0k3r 
+  ├── 💀 Gun.lol: https://guns.lol/j0k3r
+  ├── 🔔 Mail: lovesmoney.contact@proton.me
   └── 📚 Server: https://discord.gg/freeforreal
 ```
