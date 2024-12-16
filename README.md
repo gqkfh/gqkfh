@@ -28,6 +28,8 @@ OPERATIVE SYSTEMS
 SKILLS
   ├── 💫 OSINT (Open Source Intelligence)
   ├── 📒 Programming
+  ├── 📦 Learning Cybersecurity
+  ├── 💡 Python Discord Bots
   └── 🐧 Linux 
 
 WORKSPACES
