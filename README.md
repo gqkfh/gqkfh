@@ -25,11 +25,17 @@ OPERATIVE SYSTEMS
   ├── 📂 Windows
   └── 🐧 Linux (Debian)
 
+SKILLS
+  ├── 💫 OSINT (Open Source Intelligence)
+  ├── 📒 Programming
+  └── 🐧 Linux 
+
 WORKSPACES
   ├── ✨ Visual Studio Code
   ├── 📝 Windows Notepad
   ├── 🛡️ Nootepad ++
   ├── 🏆 GitHub
+  ├── ✅ Discord
   └── 💼 Canva
 
 MY REPOS
